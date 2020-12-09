@@ -63,7 +63,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "../../config/conf_winc.h"
+#include "conf_winc.h"
 
 /**@addtogroup ADAPTERDefine
  * @{

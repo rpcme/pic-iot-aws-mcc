@@ -43,7 +43,7 @@ extern "C" {
 #endif
 
 #include <stdint.h>
-#include "../../config/conf_winc.h"
+#include "conf_winc.h"
 
 /** @defgroup   SocketModule    Socket
     @brief
